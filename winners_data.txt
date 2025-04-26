@@ -1,0 +1,104 @@
+languages:
+  python: 27
+  rust: 2
+  c#: 1
+  react: 18
+  javascript: 15
+  typescript: 9
+  sql: 2
+  c++: 1
+
+frameworks:
+  streamlit: 5
+  wpf: 1
+  iced: 2
+  flask: 9
+  dash: 8
+  react: 17
+  nest: 1
+  express: 5
+  rocket: 1
+  fastapi: 3
+  egui: 1
+  remix: 1
+  panel: 1
+  django: 1
+  qt: 1
+  cef: 2
+  caf: 1
+  ember: 2
+  tide: 1
+
+features:
+  image recognition: 2
+  sentiment analysis: 1
+  ai-generated content: 2
+  facial recognition: 1
+  offline mode: 1
+  speech-to-text: 1
+  text-to-speech: 2
+  api integration: 4
+  web scraping: 1
+  image search: 1
+  voice commands: 2
+  voice recognition: 1
+  fitness tracking: 1
+  push notifications: 1
+  leaderboard: 1
+
+libraries:
+  pypdf2: 2
+  streamlit: 5
+  mongodb: 7
+  num: 6
+  cc: 41
+   log : 37
+  tar: 39
+  iced: 4
+  flask: 9
+  requests: 2
+  json: 5
+  dash: 8
+  next: 31
+  click: 6
+  glob: 3
+  typescript: 9
+  tensorflow: 2
+  react: 17
+  openssl: 1
+  three: 7
+  vite: 1
+  chai: 5
+  zod: 1
+  emotion: 5
+  firebase: 4
+  express: 5
+  tailwindcss: 1
+  rich: 5
+  rocket: 1
+  langchain: 1
+  fastapi: 3
+  egui: 1
+  specs: 1
+  black: 1
+  immer: 4
+  axios: 3
+  panel: 1
+  postgres: 1
+  leaflet: 1
+  cors: 1
+  bootstrap: 2
+  sharp: 1
+  pandas: 1
+  django: 1
+  joblib: 1
+  zip: 1
+  qt: 1
+  make: 6
+  proj: 7
+  moment: 1
+  chart.js: 1
+  supabase: 2
+  playwright: 2
+  eslint: 1
+

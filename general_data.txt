@@ -1,0 +1,39 @@
+languages:
+  python: 809
+  java: 562
+  javascript: 547
+  typescript: 271
+  sql: 107
+  c#: 13
+  php: 7
+  golang: 5
+  c++: 16
+  kotlin: 3
+  rust: 5
+
+frameworks:
+  react: 617
+  flask: 356
+  tailwind: 237
+  express: 147
+  qt: 10
+  tensorflow: 34
+  next.js: 138
+  flutter: 46
+  pytorch: 22
+  fastapi: 111
+  bootstrap: 30
+  django: 36
+  svelte: 7
+  redux: 3
+  mui: 4
+  electron: 5
+  ruby: 3
+  nestjs: 2
+  spring: 9
+  .net: 1
+  jquery: 2
+  angular: 6
+  ionic: 1
+  vue.js: 2
+
